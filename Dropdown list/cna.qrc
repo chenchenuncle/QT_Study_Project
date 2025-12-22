@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/cna">
+        <file>cna/guiangdo.jpg</file>
+    </qresource>
+</RCC>

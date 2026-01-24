@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/制作特殊照片.png</file>
+        <file>qrc/制作特殊照片.1png.png</file>
+        <file>qrc/制作特殊照片1.png</file>
+        <file>qrc/制作特殊照片2.png</file>
+        <file>qrc/制作特殊照片3.png</file>
+        <file>qrc/制作特殊照片4.png</file>
+        <file>qrc/制作特殊照片7.png</file>
+        <file>qrc/制作特殊照片8.png</file>
+        <file>qrc/制作特殊照片9.png</file>
+        <file>qrc/132.bmp</file>
+    </qresource>
+</RCC>

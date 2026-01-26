@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>inder/212.bmp</file>
+        <file>inder/780.jpg</file>
+        <file>inder/OIP-C.webp</file>
+    </qresource>
+</RCC>

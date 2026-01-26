@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/生成图标.png</file>
+        <file>qrc/生成图标1.png</file>
+    </qresource>
+</RCC>

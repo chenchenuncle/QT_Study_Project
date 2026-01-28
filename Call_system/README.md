@@ -1,5 +1,5 @@
 使用Model/View框架开发基础调用系统
-QFileSystemModel系统模型和QTreeView，QListView,QTableView等等视图深度判定
+QFileSystemModel系统模型和QTreeView，QListView,QTableView等等视图组件深度集成
 
 
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/c2380891-ad18-4b56-b64e-8b7f8bf37baa" />

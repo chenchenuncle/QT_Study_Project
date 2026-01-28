@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rqc/生成应用按钮图标.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/生成像素风格游戏开局素材图片.png</file>
+        <file>qrc/生成像素人物素材图片.png</file>
+        <file>qrc/1661926711258947.png</file>
+        <file>qrc/生成像素风格游戏开局素材图片1.png</file>
+    </qresource>
+</RCC>

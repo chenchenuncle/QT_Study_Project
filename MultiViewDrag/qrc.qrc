@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/红.png</file>
+        <file>qrc/黄.png</file>
+        <file>qrc/蓝.png</file>
+        <file>qrc/绿.png</file>
+        <file>qrc/紫.png</file>
+    </qresource>
+</RCC>
